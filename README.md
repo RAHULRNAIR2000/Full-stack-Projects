@@ -12,9 +12,11 @@
 
 
 2. Employee Management System
+
+   
      developed a website that helps the HR department facilitate the seamless entry of employee details by both the HR team and newly onboarded employees. The information is presented in a highly interactive format for enhanced user engagement. 
 
-The front-end was developed using React, while the back-end was implemented using Spring Boot. 
+The front end was developed using React, while the back end was implemented using Spring Boot. 
 
    
 [Screencast from 20-02-24 11:55:30 PM IST.webm](https://github.com/RAHULRNAIR2000/Full-stack-Projects/assets/83546515/8e7d119b-23f4-4ae5-9c37-09c6dff670f2)
