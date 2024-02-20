@@ -1,0 +1,251 @@
+.container-fluid {
+    background-color:#00e3da;
+    width: 100vw;
+    height: 100vh;
+    
+    padding-top: 70px;
+   
+  }
+  .row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+  
+  }
+  .row2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+  
+  }
+  #smallcontainers {
+    color: white;
+    background-color: #00c2d8;
+    width: 13%;
+    height: 7%;
+    padding: 20px;
+    border-radius: 30px;
+    font-weight: 500;
+    text-align: center;
+   }
+   #answers {
+    color: rgb(0, 0, 0);
+    background-color: #00e3da;
+    width: 13%;
+    height: 7%;
+    padding: 20px;
+    border-radius: 30px;
+    font-weight: 500;
+    text-align: center;
+   }
+  
+   .row3 {
+    display: flex;
+    flex-direction: row;
+    /* width: 100%; */
+    gap:350px;
+    padding-top: 160px;
+    text-align: center;
+    /* align-items: center; */
+    justify-content: center;
+    padding-left: 370px;
+   
+   
+   }
+  
+   .first-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 64.6666666667%;
+    height: 200px;
+    background-color:#00c2d8;
+    border-radius: 50px;
+    gap: 5px;
+   }
+   
+   .second-div {
+    width: 33.3333333333%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+    /* margin-left: 250px; */
+   }
+   .row4 {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap:600px;
+    padding-top: 160px;
+    text-align: center;
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* padding-left: 350px; */
+    font-weight: 500;
+   
+   }
+   .first-div1{
+    width: 40.6666666667%;
+    height: 100px;
+    font-size: 30px;
+  
+   }
+   .second-div2{
+    /* float: right; */
+    /* width:"100px"; */
+   }
+   #smallcontainers1 {
+    color: white;
+    background-color: #00c2d8;
+    width: 17%;
+    height: 7%;
+    padding: 20px;
+    border-radius: 30px;
+    font-weight: 500;
+    text-align: center;
+   }
+   .vertical1{
+    background-color:#ffced4;
+    justify-content: center;
+    align-items: center;
+    width:30px;
+    height: 200px;
+    
+   }
+   .vertical2{
+    justify-content: center;
+    align-items: center;
+    background-color:#ff99a8;
+    width:30px;
+    height: 200px;
+    
+   }
+   .row5 {
+    display: flex;
+    flex-direction: row;
+    /* width: 100%; */
+    gap:800px;
+    /* padding-top: 160px; */
+    text-align: center;
+    align-items: center; 
+    justify-content: center;
+    /* padding-left: 350px; */
+    font-weight: 500;
+   
+   
+   }
+   
+   #smallcontainers2{
+    color: white;
+    background-color: #00c2d8;
+    width: 55%;
+    height: 34%;
+    padding: 20px;
+    border-radius: 30px;
+    font-weight: 500;
+    text-align: center;
+   }
+   #smallcontainers3{
+    color: rgb(0, 0, 0);
+    background-color: #00e3da;
+    width: 55%;
+    height: 34%;
+    padding: 20px;
+    border-radius: 30px;
+    font-weight: 500;
+    text-align: center;
+   }
+   .hometown-image {
+    position: absolute;
+    top: 18px;
+    left: 100px; 
+    z-index: 1; 
+    width: 10vw;
+    height: 10vh;
+    max-width: 120px;
+    max-height: 120px;
+   }
+   .education-image {
+    position: absolute;
+    top: -28px; 
+    left: 500px; 
+    z-index: 1; 
+    width: 180px;
+    height: 200px;
+   }
+   .experiance-image {
+    position: absolute;
+    top: -10px; 
+    left: 1170px; 
+    z-index: 1; 
+    width: 170px;
+    height: 170px;
+   }
+   .enjoyment-image {
+    position: absolute;
+    top: 4px; 
+    left: 1610px; 
+    z-index: 1; 
+    width: 120px;
+    height: 120px;
+   }
+   .profile-image{
+    position: absolute;
+    top: 250px;
+    left: 1061px; 
+    z-index: 1; 
+    width: 190px;
+    height: 250px;
+  
+   }
+   .contact-image{
+    position: absolute;
+    top: 450px; 
+    left: 1651px;
+    z-index: 1; 
+    width: 190px;
+    height: 220px;
+  
+   }
+   .hobby-image{
+    position: absolute;
+    top: 750px; 
+    left: 1651px; 
+    z-index: 1; 
+    width: 130px;
+    height: 160px;
+  
+   }
+   .quote-image{
+    position: absolute;
+    top: 650px; 
+    left: 51px; 
+    z-index: 1;
+    width: 120px;
+    height: 120px;
+  
+   }
+   .logo-image{
+    position: absolute;
+    top: 900px;
+    left: 151px;
+    z-index: 1; 
+    width: 150px;
+    height: 40px;
+   }
+   .user-image{
+    position: absolute;
+    top: 285px !important;
+    left: 280px;
+    z-index: 1; 
+    width: 230px;
+    height: 250px;
+   }
+  
+   
