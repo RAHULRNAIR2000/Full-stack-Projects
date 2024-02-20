@@ -7,3 +7,6 @@
 
 
 [Screencast from 20-02-24 11:43:41 PM IST.webm](https://github.com/RAHULRNAIR2000/Full-stack-Projects/assets/83546515/7206ff1b-3bac-4583-9902-afcde99b53d7)
+
+
+2.Employee Management System
